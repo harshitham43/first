@@ -14,6 +14,7 @@ public class ExpArray {
 		{ "fido", "black"}
 		}; 
 		System.out.println(dogs[2][0]);
+System.out.println(dogs[2][1]);
 	}
 
 }
